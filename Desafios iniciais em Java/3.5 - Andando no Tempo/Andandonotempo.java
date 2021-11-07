@@ -1,7 +1,7 @@
 import java.io.IOException;
 import java.util.Scanner;
 
-public class Teste {
+public class Andandonotempo {
  
 	public static void main(String[] args) throws IOException {
 		Scanner leitor = new Scanner(System.in);
